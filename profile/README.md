@@ -220,6 +220,7 @@ Additional documentation, screenshots, and diagrams can be found in the `/docs` 
 * Network topology
 * CI/CD pipeline screenshots
 * Docker Swarm services and nodes
+* Swagger UI endpoints
 
 ---
 
