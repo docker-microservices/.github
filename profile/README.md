@@ -175,7 +175,7 @@ Swagger access can also be routed through the API Gateway if configured accordin
 
 Screenshots of Swagger endpoints are available in:
 
-* [Swagger Books](docs/swagger/)
+* [Swagger Screenshots](docs/swagger/)
 
 ---
 
@@ -212,11 +212,13 @@ This allows services to resolve each other correctly across nodes.
   * Serve the frontend over HTTPS
   * Proxy API requests securely to the API Gateway
 
+* See [Frontend Page](docs/frontend-page.png)
+
 ---
 
 ## 7. Documentation & Screenshots
 
-Additional documentation, screenshots, and diagrams can be found in the `/docs` directory:
+Additional documentation, screenshots, and diagrams can be found in the [Docs](docs/) directory:
 
 * Architecture diagrams
 * Network topology
