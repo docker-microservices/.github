@@ -25,7 +25,7 @@ The system is built using a microservices architecture with service discovery an
 
 **Architecture Diagram:**
 
-* See `/docs/architecture.png`
+* See [Architecture Diagram](docs/architecture.png)
 
 ---
 
@@ -55,7 +55,7 @@ Both VMs:
 
 **Network Flow Diagram:**
 
-* See `/docs/network-topology.png`
+* See [Network Topology](docs/network-topology.png)
 
 ---
 
@@ -172,8 +172,8 @@ Swagger access can also be routed through the API Gateway if configured accordin
 
 Screenshots of Swagger endpoints are available in:
 
-* `/docs/swagger-books.png`
-* `/docs/swagger-authors.png`
+* [Swagger Books](docs/swagger-books.png)
+* [Swagger Authors](docs/swagger-authors.png)
 
 ---
 
