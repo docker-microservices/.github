@@ -81,6 +81,7 @@ Node labels are used to control service placement:
 * **Worker Node (VM2):** `role=apis`
 
 Services are constrained to nodes based on these labels.
+* See [Docker Swarm Screenshots](docs/docker-swarm/)
 
 ---
 
@@ -145,6 +146,8 @@ Compose configurations:
 
 * Use the shared overlay network
 * Apply node constraints using role labels
+  
+* See [CI/CD Screenshots](docs/ci-cd/)
 
 ---
 
@@ -172,8 +175,7 @@ Swagger access can also be routed through the API Gateway if configured accordin
 
 Screenshots of Swagger endpoints are available in:
 
-* [Swagger Books](docs/swagger-books.png)
-* [Swagger Authors](docs/swagger-authors.png)
+* [Swagger Books](docs/swagger/)
 
 ---
 
