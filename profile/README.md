@@ -23,9 +23,9 @@ The system is built using a microservices architecture with service discovery an
   * Swagger / OpenAPI enabled for API documentation and testing
 * **Frontend** – Angular application served via Nginx.
 
-**Architecture Diagram:**
+## Architecture Diagram
 
-* See [Architecture Diagram](docs/architecture.png)
+![Architecture Diagram](docs/architecture.png)
 
 ---
 
