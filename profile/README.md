@@ -53,9 +53,9 @@ Both VMs:
 * Communicate using static IPs
 * Are accessible via SSH by the GitHub self‑hosted runner
 
-**Network Flow Diagram:**
+## Architecture Diagram
 
-* See [Network Topology](docs/network-topology.png)
+![Network Topology](docs/network-topology.png)
 
 ---
 
