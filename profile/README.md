@@ -1,3 +1,9 @@
+![CI](https://github.com/docker-microservices/authors-service/actions/workflows/ci-cd.yml/badge.svg)
+![CI](https://github.com/docker-microservices/books-service/actions/workflows/ci-cd.yml/badge.svg)
+![CI](https://github.com/docker-microservices/bookstore-frontend/actions/workflows/ci-cd.yml/badge.svg)
+![CI](https://github.com/docker-microservices/api-gateway/actions/workflows/ci-cd.yml/badge.svg)
+![CI](https://github.com/docker-microservices/discovery-service/actions/workflows/ci-cd.yml/badge.svg)
+
 # DevOps Microservices Platform
 
 This organization hosts a complete end‑to‑end DevOps project demonstrating microservices architecture, container orchestration with Docker Swarm, and a full CI/CD pipeline using GitHub Actions and a self‑hosted runner.
